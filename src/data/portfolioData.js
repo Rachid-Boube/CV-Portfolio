@@ -1,0 +1,33 @@
+export const portfolioData = [
+  {
+    id: 4,
+    name: "logiciel de calcul ",
+    languages: ["javascript", "css", "react", "node"],
+    languagesIcons: ["fab fa-react", "fab fa-js", "fab fa-sass", "fab fa-node"],
+    source: "",
+    info: "C'est un logiciel pour formuler et calculer des recettes de savon, gerer le stock de matiere premiere et des produits finis. Il permet de déterminer les proportions exactes d ingrédients nécessaires pour créer des savons de haute qualité, en prenant en compte divers facteurs et propriétés souhaitées.",
+    picture: "./media/logiciel.png",
+    link: "",
+    video: "",
+  },
+  {
+    id: 7,
+    name: "Mon CV actuel",
+    languages: ["javascript", "react", "sass"],
+    languagesIcons: ["fab fa-react", "fab fa-js", "fab fa-sass"],
+    source: "",
+    info: "Ce CV explique  explique mon parcours universitaire et tous les projet personnelle ,professionnelle et academique au quel j'ai pu participé ",
+    picture: "./media/cv.png",
+    video: "",
+  },
+  {
+    id: 10,
+    name: "Projet Sass",
+    languages: ["javascript", "sass"],
+    languagesIcons: ["fab fa-js", "fab fa-sass"],
+    source: "",
+    info: "Projet Sass visant à explorer les avantages du pré-processeur CSS. Utilisation des pseudos-classes, indentation du style, utilisation des variables et mixins.",
+    picture: "./media/projet-3.JPG",
+    video: "",
+  },
+];
