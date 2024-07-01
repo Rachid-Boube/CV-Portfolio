@@ -1,7 +1,8 @@
 import React from "react";
+import Navigation from "../components/Navigation";
 
 const Knowledges = () => {
-  return <div>Knowledges</div>;
+  return <Navigation />;
 };
 
 export default Knowledges;
