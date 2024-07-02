@@ -10,7 +10,10 @@ const Home = () => {
           <h1>Rachid Boube</h1>
           <h2>Recherche d'une Alternance en Développement Full-Stack</h2>
           <div className="pdf">
-            <a href="./media/CV_RACHID_ALTERNANCE.pdf" target="_blank">
+            <a
+              href="https://rachid-boube.github.io/cv-portfolio/media/CV_RACHID_ALTERNANCE.pdf"
+              target="_blank"
+            >
               Télécharger CV
             </a>
           </div>
