@@ -11,7 +11,7 @@ const Home = () => {
           <h2>Recherche d'une Alternance en Développement Full-Stack</h2>
           <div className="pdf">
             <a
-              href="https://rachid-boube.github.io/cv-portfolio/media/CV_RACHID_ALTERNANCE.pdf"
+              href="https://rachid-boube.github.io/cv-portfolio/media/CV_ALTERNANCE_IPM.pdf"
               target="_blank"
             >
               Télécharger CV

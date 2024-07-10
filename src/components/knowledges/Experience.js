@@ -14,6 +14,7 @@ const Experience = () => {
           recettes de savons à la gestion du stock et des procédures internes
           avec le stack techique MERN (MongoDB-ExpressJS-ReactJS-NodeJS).
         </p>
+        <br />
       </div>
       <div className="exp-2">
         <h4>Développement web</h4>
@@ -24,9 +25,10 @@ const Experience = () => {
           suite, le développement du site web a été réalisé avec ReactJS, une
           bibliothèque JavaScript largement utilisée pour construire des
           interfaces utilisateur interactives. Une attention particulière a été
-          portée à la conception d'un site web responsive, s'adaptant aisément à
+          portée à la conception du site web responsive, s'adaptant aisément à
           diverses tailles d'écran et types d'appareils.
         </p>
+        <br />
       </div>
       <div className="exp-3">
         <h4>
