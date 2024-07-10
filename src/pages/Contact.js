@@ -47,7 +47,7 @@ class contact extends Component {
           <div className="socialNetwork">
             <ul>
               <a
-                href="https://www.youtube.com/feed/you"
+                href="https://www.youtube.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -63,7 +63,7 @@ class contact extends Component {
                 <i className="fab fa-github"></i>
               </a>
               <a
-                href="https://x.com/rachid_boube"
+                href="https://x.com/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
